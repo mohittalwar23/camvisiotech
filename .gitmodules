@@ -1,3 +1,6 @@
 [submodule "MK-1/camvisiotech-mk-1"]
 	path = MK-1/camvisiotech-mk-1
 	url = https://github.com/mohittalwar23/camvisiotech-mk-1.git
+[submodule "MK-0/ESP32-CAM-Security"]
+	path = MK-0/ESP32-CAM-Security
+	url = https://github.com/Jjateen/ESP32-CAM-Security.git
