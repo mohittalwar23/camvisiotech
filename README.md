@@ -1,4 +1,4 @@
-# **CamVisioTech: AIoT-Driven Smart Security Systems**
+# **CamVisioTech: AIoT-Driven Smart Security System**
 
 CamVisioTech is an AI-powered IoT-based security system project, collaboratively developed to implement advanced surveillance features with iterative enhancements. Each version builds upon its predecessor, integrating cutting-edge technologies for home and office security.
 
