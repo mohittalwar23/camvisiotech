@@ -102,9 +102,9 @@ The MK-2 version of CamVisioTech moves beyond conventional surveillance by lever
 
 ## **Demo Videos**
 
-- [CamVisioTech MK-0 Demo](https://www.instagram.com/p/CvfpnTPIu1L/)
-- [CamVisioTech MK-1 Demo](https://www.instagram.com/p/C0wjcxdiWFX/)
-- [CamVisioTech MK-2 Demo](https://www.instagram.com/p/MK2_demo_link/)
+- [CamVisioTech MK-0 Demo](https://www.youtube.com/watch?v=66lqQIQKCaM)
+- [CamVisioTech MK-1 Demo](https://www.youtube.com/watch?v=Olso1Um0gBo)
+- [CamVisioTech MK-2 Demo](https://www.youtube.com/watch?v=dhHVKKKZovE)
 
 ---
 
